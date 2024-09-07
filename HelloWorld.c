@@ -4,6 +4,6 @@ int main() {
    printf("Hello, World!\n");
    printf("Add your name\n");
    printf("My name is Sample\n");
-   printf("Testing git pull");
+   printf("Testing git pull\n");
    return 0;
 }
